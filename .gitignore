@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Model & data artifacts (large files)
+*.h5
+*.pkl
+*.npz
+*.csv
+
+# Keep these specific CSVs
+!DLDATA.csv
+!movies_real_2000_2026.csv
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/

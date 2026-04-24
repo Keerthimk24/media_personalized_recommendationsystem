@@ -1,0 +1,123 @@
+﻿user_id,content_id,Timestamp,Which genres do you enjoy the most? (Select up to 3),What type of content do you prefer?,When do you usually watch content? (Select all that apply),What is your preferred episode length?,How do you usually find new content to watch?,How often do you re-watch your favorite shows or movies?,Which device do you primarily use for streaming?,How satisfied are you with the current content recommendations?,"Based on your preferred content type, please share the name of a recent favorite you watched (e.g., a movie, TV show, or short film).",rating
+U1,C1,21/03/2026 18:33:08,"Horror, Action, Sci-Fi",Movies,"Evening, Late Night",40-60 minutes,Browsing categories,Occasionally,Smart TV,4,Smile 2,3
+U2,C2,22/03/2026 22:28:18,"Horror, Action, Comedy, Romance, Sci-Fi, Thrillers",Movies,"Afternoon, Late Night",40-60 minutes,Social media,Occasionally,Smartphone,3,With love,3
+U3,C3,22/03/2026 22:28:26,"Action, Romance, Sci-Fi",TV Shows,"Evening, Late Night",Over 60 minutes,Social media,Occasionally,Smart TV,4,Splitsvilla season 16,3
+U4,C4,22/03/2026 22:32:30,"Action, Sci-Fi",Short Films,"Morning, Afternoon, Evening, Late Night",Over 60 minutes,Recommendations from friends,Occasionally,Laptop/PC,3,ANIMAL,3
+U5,C5,23/03/2026 19:59:50,"Horror, Romance, Sci-Fi",Documentaries,Afternoon,Over 60 minutes,Social media,Occasionally,Smartphone,5,Salaar ,3
+U6,C6,23/03/2026 20:02:20,"Horror, Action, Comedy, Drama, Romance, Sci-Fi",Movies,"Afternoon, Evening, Late Night",20-40 minutes,Recommendations from friends,Frequently,Smartphone,5,"Alice in border land , franklisten ",3
+U7,C7,23/03/2026 20:02:49,"Horror, Action, Comedy, Drama, Romance, Sci-Fi",Movies,"Morning, Afternoon, Evening, Late Night",Under 20 minutes,Social media,Rarely,Laptop/PC,5,Movie ,3
+U8,C8,23/03/2026 20:04:14,"Action, Drama, Sci-Fi",Movies,"Morning, Afternoon, Evening, Late Night",Over 60 minutes,Social media,Occasionally,Laptop/PC,4,Dhurandhar - the revenge ,3
+U9,C9,23/03/2026 20:04:24,"Action, Comedy, Drama, Sci-Fi",Movies,Evening,20-40 minutes,Social media,Occasionally,Smartphone,5,Just married ,3
+U10,C10,23/03/2026 20:08:50,"Action, Comedy, Sci-Fi",Movies,Late Night,Under 20 minutes,Recommendations from friends,Occasionally,Smart TV,3,Shutter island ,3
+U11,C11,23/03/2026 20:13:41,"Action, Comedy, Drama, Romance",TV Shows,"Evening, Late Night",40-60 minutes,Social media,Occasionally,Tablet,3,Made in Korea,3
+U12,C12,23/03/2026 20:13:44,"Comedy, Drama, Romance",Movies,"Evening, Late Night",20-40 minutes,Social media,Occasionally,Laptop/PC,3,Recent movie I had watched is 'with love',3
+U13,C13,23/03/2026 20:26:41,"Action, Romance, Sci-Fi",Movies,"Evening, Late Night",40-60 minutes,Social media,Frequently,Laptop/PC,4,The Vampire Diaries - Series,3
+U14,C14,23/03/2026 20:27:14,"Horror, Action, Comedy",Movies,Late Night,40-60 minutes,Social media,Rarely,Smart TV,5,Dhruva,3
+U15,C15,23/03/2026 20:27:14,"Action, Comedy, Drama",Short Films,Late Night,Over 60 minutes,Social media,Occasionally,Laptop/PC,4,Ugadi events,3
+U16,C16,23/03/2026 20:27:54,"Action, Comedy, Sci-Fi",Movies,"Morning, Afternoon, Evening, Late Night",Over 60 minutes,Recommendations from friends,Occasionally,Smartphone,4,.,3
+U17,C17,23/03/2026 20:29:54,Comedy,TV Shows,Evening,20-40 minutes,Social media,Occasionally,Smart TV,4,Tv show (maa parivar awards),3
+U18,C18,23/03/2026 20:30:18,"Horror, Comedy, Drama, Romance",Movies,"Evening, Late Night",20-40 minutes,Recommendations from friends,Frequently,Smartphone,3,With love,3
+U19,C19,23/03/2026 20:30:19,"Horror, Comedy, Sci-Fi",Movies,"Morning, Afternoon, Evening",40-60 minutes,Recommendations from friends,Occasionally,Smartphone,5,Couple friendly,3
+U20,C20,23/03/2026 20:32:16,"Horror, Action, Comedy, Drama",Movies,Late Night,Over 60 minutes,Browsing categories,Frequently,Smartphone,3,Stranger things ,3
+U21,C21,23/03/2026 20:32:22,"Horror, Action, Comedy",Movies,"Afternoon, Late Night",20-40 minutes,Social media,Rarely,Smartphone,4,8 vasantalu,3
+U22,C22,23/03/2026 20:35:43,Romance,Movies,Evening,Over 60 minutes,Social media,Rarely,Smartphone,5,Couple friendly ,3
+U23,C23,23/03/2026 20:40:58,"Horror, Action, Comedy, Drama, Romance, Sci-Fi",Movies,Late Night,20-40 minutes,Recommendations from friends,Occasionally,Laptop/PC,2,Attack On Titans,3
+U24,C24,23/03/2026 20:42:57,"Horror, Action, Comedy, Drama, Romance, Sci-Fi",Movies,Late Night,40-60 minutes,Recommendations from friends,Occasionally,Laptop/PC,4,Dude,3
+U25,C25,23/03/2026 20:43:09,"Horror, Comedy, Drama",Movies,Late Night,Under 20 minutes,Recommendations from friends,Occasionally,Smartphone,4,Movie,3
+U26,C26,23/03/2026 20:45:11,Thriller action,Movies,Evening,20-40 minutes,Social media,Rarely,Smartphone,3,Durandhar,3
+U27,C27,23/03/2026 20:46:11,Romance,Movies,Morning,20-40 minutes,Social media,Rarely,Smartphone,2,Tv,3
+U28,C28,23/03/2026 20:47:29,"Horror, Action, Comedy",Short Films,Evening,20-40 minutes,Social media,Frequently,Smartphone,4,Just Married,3
+U29,C29,23/03/2026 20:51:15,"Action, Comedy",Short Films,Morning,20-40 minutes,Browsing categories,Occasionally,Tablet,2,Godavari,3
+U30,C30,23/03/2026 20:58:13,Horror,Movies,Late Night,Over 60 minutes,Recommendations from friends,Rarely,Laptop/PC,4,Stranger Things 👌,3
+U31,C31,23/03/2026 21:21:57,"Action, Comedy, Romance",Movies,Late Night,20-40 minutes,Social media,Frequently,Smartphone,4,"Dhurandhar 2 ,one piece ",3
+U32,C32,23/03/2026 21:22:24,"Horror, Comedy",Movies,"Afternoon, Evening, Late Night",40-60 minutes,Social media,Rarely,Smartphone,3,Isha(movie),3
+U33,C33,23/03/2026 21:31:50,"Action, Comedy, Drama",Movies,Evening,Over 60 minutes,Recommendations from friends,Occasionally,Smartphone,4,Salar,3
+U34,C34,23/03/2026 21:37:34,"Action, Comedy",Movies,Evening,40-60 minutes,Recommendations from friends,Frequently,Smart TV,3,Kishkindapuri,3
+U35,C35,23/03/2026 21:41:39,"Comedy, Drama",Movies,Evening,20-40 minutes,Social media,Rarely,Smartphone,4,With Love ,3
+U36,C36,23/03/2026 22:44:21,Horror,Movies,Evening,Under 20 minutes,Social media,Rarely,Smartphone,3,Laapata ladies ,3
+U37,C37,23/03/2026 23:08:34,Comedy,TV Shows,Evening,Under 20 minutes,Browsing categories,Rarely,Smart TV,1,I don't watch movies so I can't tell favourite one ,3
+U38,C38,24/03/2026 00:11:48,"Action, Comedy, Drama",Documentaries,"Evening, Late Night",20-40 minutes,Social media,Frequently,Smartphone,5,Naruto,3
+U39,C39,24/03/2026 07:55:20,Action,Movies,Late Night,20-40 minutes,Social media,Occasionally,Laptop/PC,4,Dhurandhar 2,3
+U40,C40,24/03/2026 08:20:35,"Horror, Action, Comedy",TV Shows,"Afternoon, Late Night",Under 20 minutes,Recommendations from friends,Rarely,Smartphone,4,Jigris ,3
+U41,C41,24/03/2026 08:23:20,Action,TV Shows,Evening,40-60 minutes,Recommendations from friends,Occasionally,Smartphone,4,Om Shanti shanti shantihi ,3
+U42,C42,24/03/2026 09:12:39,"Action, Comedy, Drama",Movies,"Evening, Late Night",20-40 minutes,Recommendations from friends,Frequently,Laptop/PC,5,Saaiyara,3
+U43,C43,24/03/2026 10:32:03,Horror,Movies,Late Night,40-60 minutes,Social media,Rarely,Laptop/PC,5,Sirai,3
+U44,C44,24/03/2026 10:34:04,Romance,Documentaries,"Afternoon, Evening",20-40 minutes,Browsing categories,Frequently,Tablet,4,Movies ,3
+U45,C45,24/03/2026 14:00:49,"Horror, Action, Comedy, Romance",Movies,Late Night,40-60 minutes,Social media,Occasionally,Smartphone,4,RRR,3
+U46,C46,24/03/2026 16:35:46,"Horror, Comedy, Drama",Movies,"Morning, Afternoon, Evening",20-40 minutes,Social media,Frequently,Smartphone,5,Movie,3
+U47,C47,24/03/2026 16:49:13,"Horror, Action, Comedy",Movies,"Evening, Late Night",Over 60 minutes,Social media,Rarely,Smart TV,5,Raja Rani,3
+U48,C48,24/03/2026 19:09:55,"Comedy, Drama, Romance",Movies,Evening,20-40 minutes,Social media,Occasionally,Smartphone,1,True beauty k drama ,3
+U49,C49,25/03/2026 12:47:46,"Horror, Action, Comedy, Drama",Movies,Late Night,20-40 minutes,Recommendations from friends,Occasionally,Smartphone,4,With love ,3
+U50,C50,25/03/2026 12:49:54,"Horror, Action, Comedy, Romance, Sci-Fi",Movies,"Evening, Late Night",20-40 minutes,Social media,Frequently,Smartphone,3,Lord of rings ,3
+U51,C51,25/03/2026 12:52:27,"Action, Comedy, Romance, Sci-Fi",Movies,"Evening, Late Night",40-60 minutes,Recommendations from friends,Frequently,Smartphone,3,Og,3
+U52,C52,25/03/2026 13:28:48,"Horror, Action, Comedy, Drama, Romance, Sci-Fi, ",Movies,"Morning, Afternoon, Evening, Late Night",Over 60 minutes,Social media,Frequently,Smartphone,1,Dhurandhar ,3
+U53,C53,26/03/2026 15:34:17,"Horror, Action, Drama",TV Shows,"Morning, Afternoon, Evening, Late Night",20-40 minutes,Social media,Occasionally,Laptop/PC,4,Stranger things ,3
+U54,C54,26/03/2026 18:08:59,Horror,Movies,Evening,20-40 minutes,Social media,Frequently,Laptop/PC,5,Dude ,3
+U55,C55,26/03/2026 18:14:05,"Comedy, Drama, Thriller ",Short Films,Late Night,Under 20 minutes,Recommendations from friends,Rarely,Laptop/PC,1,Dude,3
+U56,C56,26/03/2026 18:15:53,"Horror, Comedy",Movies,Evening,40-60 minutes,Social media,Occasionally,Laptop/PC,4,With love ,3
+U57,C57,18/03/2026 18:58:54,Thriller,Sports ,,,Investigation thriller ,,,5,Made in korea ,3
+U58,C58,18/03/2026 19:00:21,"Romance, Thriller",,,,Recent Telugu movies ,,,4,Pushpa ,3
+U59,C59,18/03/2026 19:00:25,"Thriller, Horror","comedy, triller and horror  ",,,telugu horror  movies  or triller movies,,,4,with love,3
+U60,C60,18/03/2026 19:01:59,"Comedy, Documentary",Drama ,,,Cinematography movies ,,,4,With Love,3
+U61,C61,18/03/2026 19:05:43,Drama,Action and drama,,,"Thriller, crime, horror and love",,,5,Made in korea ,3
+U62,C62,18/03/2026 19:08:03,"Comedy, Drama",Yes,,,Best trendy movies,,,3,Made in Korea ,3
+U63,C63,18/03/2026 19:08:29,"Romance, Drama","Ranamce,thriller,drama",,,Web series ,,,5,Made in korea ,3
+U64,C64,18/03/2026 19:11:01,"Thriller, Horror",Comedy ,,,Crimes and thriller scenes ,,,5,Rajsaab,3
+U65,C65,18/03/2026 19:14:51,"Thriller, Sci-Fi/Fantasy",I generally prefer watching crime thrillers and sci-fi content .,,,Crime thrillers ,,,4,Vikram on duty,3
+U66,C66,18/03/2026 19:25:53,"Action, Thriller, Horror",Entertainment ,,,Thriller and horror,,,3,The conguring ,3
+U67,C67,18/03/2026 19:30:26,"Action, Thriller",Thriller,,,Hollywood action,,,3,With love,3
+U68,C68,18/03/2026 19:30:53,"Action, Thriller","I prefer Telugu action, comedy, and thriller movies .",,,Thriller and suspense ,,,3,Hit 3 ,3
+U69,C69,18/03/2026 19:45:43,"Action, Comedy, Thriller, Sci-Fi/Fantasy","Action , Sci-Fi/Fantasy",,,Hotstar ,,,4,Avengers End game ,3
+U70,C70,18/03/2026 20:09:08,"Drama, Sci-Fi/Fantasy, Kids/Family",,,,Web series ,,,4,K drams,3
+U71,C71,18/03/2026 20:51:47,"Thriller, Horror",Good love story ,,,"Korean Dramas , chinese dramas ",,,4,With love ,3
+U72,C72,18/03/2026 22:25:51,"Comedy, Romance",Comedy,,,"MCU,Action Thriller,Mystery,Horror",,,4,Dhurandhar ,3
+U73,C73,18/03/2026 22:49:47,"Action, Sci-Fi/Fantasy",Action movies,,,Action ,,,5,With love,3
+U74,C74,18/03/2026 22:59:02,"Drama, Horror",Family and moral movies ,,,Family entertainments.,,,4,Gandhi talks and  hi nana,3
+U75,C75,18/03/2026 23:21:58,"Comedy, Horror","Songs,food vlogs",,,Comedy movies,,,4,Sarvam maya,3
+U76,C76,18/03/2026 23:47:15,"Action, Thriller",Thriller ,,,"Action , crime , comedy ",,,5,Dhurandar ,3
+U77,C77,19/03/2026 09:22:30,"Action, Comedy, Thriller, Horror",Good ,,,Crime movies ,,,4,Dhurandar ,3
+U78,C78,19/03/2026 12:37:35,"Action, Comedy, Thriller, Drama",I generally prefer action and drama movies with engaging storylines and strong performances,,,TELUGU ACTION AND COMEDY MOVIES,,,5,Pushpa-2,3
+U79,C79,21/03/2026 16:25:38,"Action, Comedy","I prefer watching entertaining content like action, comedy, and emotional dramas, mostly in Telugu",,,"Telugu new movies, comedy shows, trending web series",,,3,Salar,3
+U80,C80,21/03/2026 19:18:33,"Action, Romance",Any prabhas Movies,,,Telugu Romantic Action Movies,,,5,Dhurandhar 2  ,3
+U81,C81,21/03/2026 20:06:31,"Action, Thriller, Drama, Sci-Fi/Fantasy","I generally prefer watching action, thriller, and sci-fi content with engaging storylines and high-quality visuals.",,,Best Action and thriller movies ,,,4,Dhurandhar ,3
+U82,C82,23/03/2026 18:14:12,"Action, Comedy, Horror",i prefer watching comedy with strong storylines,,,Telugu comedy and horror movies ,,,3,Ustad Bhagat Singh ,3
+U83,C83,18/03/2026 00:30,"Horror, Romance, Action",Documentaries,"Morning, Afternoon",Under 20 minutes,Recommendations from friends,Rarely,Smart TV,1,The Office,3
+U84,C84,18/03/2026 10:11 AM,Romance,Short Films,Evening,20-40 minutes,Social media,Rarely,Tablet,2,Breaking Bad,3
+U85,C85,18/03/2026 08:55 PM,"Horror, Drama, Comedy",TV Shows,"Late Night, Afternoon",Under 20 minutes,Recommendations from friends,Frequently,Smartphone,5,Avengers,3
+U86,C86,18-03-2026 20:01,"Drama, Action, Sci-Fi",Documentaries,"Morning, Late Night",20-40 minutes,Recommendations from friends,Occasionally,Smart TV,2,Money Heist,3
+U87,C87,19/03/2026 02:34,"Comedy, Romance",Short Films,Evening,40-60 minutes,Social media,Frequently,Tablet,5,Breaking Bad,3
+U88,C88,19/03/2026 07:38,"Horror, Action",Short Films,Evening,Under 20 minutes,Recommendations from friends,Occasionally,Smart TV,3,The Office,3
+U89,C89,19/03/2026 21:43,"Horror, Sci-Fi, Comedy",TV Shows,"Evening, Morning",Under 20 minutes,Browsing categories,Occasionally,Tablet,5,The Office,3
+U90,C90,20-03-2026 13:55,Comedy,Short Films,"Evening, Late Night",Under 20 minutes,Platform suggestions,Occasionally,Laptop/PC,3,The Office,3
+U91,C91,20/03/2026 00:22,Comedy,Documentaries,"Afternoon, Evening",Under 20 minutes,Recommendations from friends,Rarely,Smart TV,2,Breaking Bad,3
+U92,C92,20-03-2026 10:59,"Horror, Drama, Action",Movies,"Afternoon, Morning",20-40 minutes,Browsing categories,Frequently,Tablet,1,Stranger Things,3
+U93,C93,21/03/2026 02:07,Comedy,Short Films,"Evening, Late Night",Over 60 minutes,Social media,Frequently,Smartphone,3,Avengers,3
+U94,C94,21/03/2026 08:02,"Comedy, Romance, Drama",Documentaries,Late Night,Over 60 minutes,Browsing categories,Frequently,Smart TV,3,Dark,3
+U95,C95,21/03/2026 21:46,"Drama, Comedy, Action",Documentaries,Afternoon,40-60 minutes,Recommendations from friends,Occasionally,Smart TV,2,Inception,3
+U96,C96,22/03/2026 07:19 PM,Romance,Short Films,"Afternoon, Late Night",40-60 minutes,Browsing categories,Frequently,Smart TV,2,The Office,3
+U97,C97,22-03-2026 06:29,Comedy,TV Shows,"Morning, Late Night",Over 60 minutes,Recommendations from friends,Rarely,Smart TV,1,The Office,3
+U98,C98,22/03/2026 13:38,Horror,Movies,Afternoon,20-40 minutes,Social media,Rarely,Smart TV,3,Dark,3
+U99,C99,22/03/2026 17:55,Action,Short Films,Late Night,40-60 minutes,Social media,Rarely,Smartphone,3,Avengers,3
+U100,C100,23/03/2026 21:06,Romance,Movies,Late Night,Over 60 minutes,Browsing categories,Occasionally,Tablet,3,Stranger Things,3
+U101,C101,23-03-2026 21:53,"Horror, Action",Movies,"Late Night, Morning",40-60 minutes,Platform suggestions,Frequently,Laptop/PC,4,Stranger Things,3
+U102,C102,23/03/2026 06:56,"Horror, Romance",Documentaries,Morning,Over 60 minutes,Social media,Occasionally,Tablet,5,Breaking Bad,3
+U103,C103,24-03-2026 23:29,"Action, Drama",Movies,Morning,40-60 minutes,Social media,Frequently,Laptop/PC,2,Interstellar,3
+U104,C104,24-03-2026 08:19,"Drama, Horror, Action",TV Shows,Morning,Over 60 minutes,Platform suggestions,Occasionally,Laptop/PC,5,The Office,3
+U105,C105,24-03-2026 07:30,Horror,Documentaries,"Evening, Late Night",Over 60 minutes,Browsing categories,Occasionally,Smartphone,4,Interstellar,3
+U106,C106,25/03/2026 11:20 PM,"Sci-Fi, Action",Documentaries,"Afternoon, Late Night",Under 20 minutes,Social media,Frequently,Smartphone,1,Inception,3
+U107,C107,25/03/2026 03:20 AM,Sci-Fi,TV Shows,"Afternoon, Evening",20-40 minutes,Recommendations from friends,Frequently,Smart TV,4,Inception,3
+U108,C108,25/03/2026 10:16 AM,Action,Documentaries,"Morning, Late Night",40-60 minutes,Platform suggestions,Occasionally,Smart TV,1,Avengers,3
+U109,C109,26-03-2026 20:31,"Action, Comedy, Romance",Short Films,Morning,40-60 minutes,Browsing categories,Rarely,Smart TV,2,The Office,3
+U110,C110,26/03/2026 07:35 AM,"Comedy, Horror, Romance",TV Shows,Evening,Under 20 minutes,Social media,Rarely,Smartphone,4,Stranger Things,3
+U111,C111,26-03-2026 14:01,"Action, Romance",TV Shows,Late Night,Over 60 minutes,Platform suggestions,Rarely,Laptop/PC,2,Avengers,3
+U112,C112,26-03-2026 05:07,"Sci-Fi, Drama",TV Shows,Evening,20-40 minutes,Recommendations from friends,Rarely,Laptop/PC,4,Stranger Things,3
+U113,C113,27/03/2026 16:19,Romance,Movies,Morning,Over 60 minutes,Platform suggestions,Occasionally,Laptop/PC,4,The Office,3
+U114,C114,27/03/2026 01:30,Horror,Documentaries,Late Night,40-60 minutes,Browsing categories,Occasionally,Smartphone,3,Inception,3
+U115,C115,27/03/2026 10:19 PM,Romance,TV Shows,"Afternoon, Evening",Under 20 minutes,Social media,Frequently,Smartphone,1,Stranger Things,3
+U116,C116,28/03/2026 11:49,Comedy,TV Shows,"Morning, Evening",20-40 minutes,Platform suggestions,Occasionally,Laptop/PC,2,Breaking Bad,3
+U117,C117,28/03/2026 05:22,"Horror, Comedy, Romance",Movies,Late Night,20-40 minutes,Recommendations from friends,Frequently,Smartphone,5,Avengers,3
+U118,C118,28/03/2026 10:25 AM,"Sci-Fi, Action",Short Films,"Evening, Morning",Under 20 minutes,Platform suggestions,Occasionally,Smartphone,4,The Office,3
+U119,C119,29-03-2026 22:52,"Romance, Action",Documentaries,"Afternoon, Morning",40-60 minutes,Social media,Rarely,Smart TV,5,Breaking Bad,3
+U120,C120,29/03/2026 08:16 AM,Horror,TV Shows,"Afternoon, Evening",Under 20 minutes,Platform suggestions,Occasionally,Tablet,2,Avengers,3
+U121,C121,29/03/2026 03:50 AM,"Action, Drama",TV Shows,Evening,Over 60 minutes,Social media,Frequently,Smartphone,1,The Office,3
+U122,C122,30/03/2026 21:37,Drama,Movies,Morning,Under 20 minutes,Platform suggestions,Frequently,Smart TV,2,Stranger Things,3
